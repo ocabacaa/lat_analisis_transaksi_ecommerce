@@ -1,0 +1,501 @@
+order_id,order_date,product_name,category,price,quantity,total_sales,customer_city,payment_method
+TRX0001,2024-03-03,House Wireless,Electronics,408786,3,408789,Bandung,COD
+TRX0002,2024-04-18,USB Hub,Electronics,65580,5,65585,Jakarta,ShopeePay
+TRX0003,2024-06-03,Keyboard Mechanical,Electronics,141981,5,141986,Jakarta,Dana
+TRX0004,2024-04-24,Topi Bucket,Fashion,239949,2,239951,Medan,TF Bank
+TRX0005,2024-03-28,Keyboard Mechanical,Electronics,386026,4,386030,Pontianak,COD
+TRX0006,2024-04-07,Celana Kargo,Fashion,73587,1,73588,Jakarta,TF Bank
+TRX0007,2024-04-27,Lip Tint,Beauty,158685,1,158686,Medan,ShopeePay
+TRX0008,2024-06-09,Kopi Susu,Food,309428,3,309431,Medan,TF Bank
+TRX0009,2024-03-15,Hoodie Oversize,Fashion,44025,2,44027,Jakarta,COD
+TRX0010,2024-06-11,Powerbank 10000mAH,Electronics,165738,4,165742,Pontianak,COD
+TRX0011,2024-06-28,Moisturizer Gel,Beauty,129842,3,129845,Jakarta,Dana
+TRX0012,2024-02-11,Topi Bucket,Fashion,402272,2,402274,Makassar,Gopay
+TRX0013,2024-01-15,Lip Tint,Beauty,135141,3,135144,Bandung,ShopeePay
+TRX0014,2024-02-24,Sunscreen,Beauty,160373,1,160374,Medan,TF Bank
+TRX0015,2024-02-06,Jaket Denim,Fashion,227425,4,227429,Pontianak,COD
+TRX0016,2024-05-29,Topi Bucket,Fashion,302579,3,302582,Makassar,Dana
+TRX0017,2024-05-10,Coklat Batangan,Food,134987,2,134989,Makassar,ShopeePay
+TRX0018,2024-06-23,House Wireless,Electronics,100132,2,100134,Makassar,Dana
+TRX0019,2024-04-29,Powerbank 10000mAH,Electronics,220078,5,220083,Medan,TF Bank
+TRX0020,2024-03-09,House Wireless,Electronics,377412,5,377417,Pontianak,ShopeePay
+TRX0021,2024-01-01,Sunscreen,Beauty,102920,4,102924,Pontianak,Dana
+TRX0022,2024-06-09,Topi Bucket,Fashion,498479,1,498480,Pontianak,Dana
+TRX0023,2024-05-18,Kaos Unisex,Fashion,216038,2,216040,Medan,ShopeePay
+TRX0024,2024-04-02,Sunscreen,Beauty,30211,1,30212,Pontianak,COD
+TRX0025,2024-01-21,Keyboard Mechanical,Electronics,480329,5,480334,Jakarta,Gopay
+TRX0026,2024-02-02,USB Hub,Electronics,421517,2,421519,Makassar,Dana
+TRX0027,2024-04-18,Celana Kargo,Fashion,296653,5,296658,Bandung,Dana
+TRX0028,2024-04-22,Celana Kargo,Fashion,229186,3,229189,Medan,Gopay
+TRX0029,2024-03-27,Keyboard Mechanical,Electronics,137806,1,137807,Jakarta,Dana
+TRX0030,2024-01-19,Topi Bucket,Fashion,135457,1,135458,Jakarta,COD
+TRX0031,2024-01-19,House Wireless,Electronics,470696,3,470699,Medan,COD
+TRX0032,2024-02-03,Sunscreen,Beauty,132321,5,132326,Medan,Dana
+TRX0033,2024-04-14,Mie Instan Premium,Food,431366,4,431370,Bandung,ShopeePay
+TRX0034,2024-04-15,Powerbank 10000mAH,Electronics,205753,4,205757,Makassar,ShopeePay
+TRX0035,2024-01-28,House Wireless,Electronics,231089,3,231092,Bandung,COD
+TRX0036,2024-04-18,Topi Bucket,Fashion,255202,2,255204,Bandung,TF Bank
+TRX0037,2024-04-23,Mie Instan Premium,Food,478482,1,478483,Medan,ShopeePay
+TRX0038,2024-01-24,USB Hub,Electronics,458319,1,458320,Bandung,COD
+TRX0039,2024-04-12,Keripik Pedas,Food,272370,2,272372,Jakarta,COD
+TRX0040,2024-04-26,Kopi Susu,Food,224693,3,224696,Pontianak,Gopay
+TRX0041,2024-02-25,Mie Instan Premium,Food,119561,3,119564,Jakarta,Dana
+TRX0042,2024-05-29,Earphone Bass,Electronics,49971,1,49972,Makassar,Dana
+TRX0043,2024-02-17,Hoodie Oversize,Fashion,286248,1,286249,Jakarta,Dana
+TRX0044,2024-05-25,Keyboard Mechanical,Electronics,231694,1,231695,Bandung,Dana
+TRX0045,2024-06-17,USB Hub,Electronics,62982,4,62986,Medan,Dana
+TRX0046,2024-03-02,Moisturizer Gel,Beauty,127090,3,127093,Pontianak,Gopay
+TRX0047,2024-01-19,Celana Kargo,Fashion,259717,3,259720,Jakarta,Gopay
+TRX0048,2024-05-09,House Wireless,Electronics,301875,2,301877,Pontianak,COD
+TRX0049,2024-04-04,Serum Vitamin C,Beauty,480990,2,480992,Pontianak,COD
+TRX0050,2024-06-05,Basreng,Food,388857,3,388860,Medan,ShopeePay
+TRX0051,2024-03-08,Serum Vitamin C,Beauty,480391,2,480393,Jakarta,ShopeePay
+TRX0052,2024-02-23,Celana Kargo,Fashion,167721,5,167726,Pontianak,COD
+TRX0053,2024-01-14,Lip Tint,Beauty,276131,3,276134,Jakarta,Gopay
+TRX0054,2024-02-03,Serum Vitamin C,Beauty,21858,3,21861,Pontianak,COD
+TRX0055,2024-05-23,Basreng,Food,389972,4,389976,Jakarta,ShopeePay
+TRX0056,2024-04-04,Keyboard Mechanical,Electronics,306046,1,306047,Medan,Dana
+TRX0057,2024-03-19,Jaket Denim,Fashion,86818,1,86819,Pontianak,ShopeePay
+TRX0058,2024-06-19,Facial Wash,Beauty,377599,2,377601,Jakarta,TF Bank
+TRX0059,2024-03-01,Basreng,Food,412942,2,412944,Bandung,COD
+TRX0060,2024-04-15,Kopi Susu,Food,114036,3,114039,Bandung,TF Bank
+TRX0061,2024-04-30,Hoodie Oversize,Fashion,220562,1,220563,Bandung,COD
+TRX0062,2024-02-27,Coklat Batangan,Food,180007,2,180009,Jakarta,COD
+TRX0063,2024-03-12,Coklat Batangan,Food,166068,1,166069,Pontianak,Dana
+TRX0064,2024-01-30,Basreng,Food,193617,1,193618,Pontianak,COD
+TRX0065,2024-04-21,Serum Vitamin C,Beauty,76834,5,76839,Pontianak,TF Bank
+TRX0066,2024-04-08,Basreng,Food,288132,1,288133,Medan,COD
+TRX0067,2024-01-01,Serum Vitamin C,Beauty,391607,4,391611,Medan,Dana
+TRX0068,2024-06-19,Celana Kargo,Fashion,246124,1,246125,Pontianak,Dana
+TRX0069,2024-05-09,Serum Vitamin C,Beauty,397358,3,397361,Pontianak,Gopay
+TRX0070,2024-05-21,Sunscreen,Beauty,385538,3,385541,Bandung,COD
+TRX0071,2024-06-06,Keripik Pedas,Food,375109,2,375111,Medan,TF Bank
+TRX0072,2024-03-18,Basreng,Food,457112,1,457113,Pontianak,COD
+TRX0073,2024-04-29,Basreng,Food,338065,3,338068,Makassar,Gopay
+TRX0074,2024-06-17,Topi Bucket,Fashion,268085,2,268087,Jakarta,TF Bank
+TRX0075,2024-06-21,Serum Vitamin C,Beauty,449089,2,449091,Pontianak,COD
+TRX0076,2024-03-03,Kaos Unisex,Fashion,32805,1,32806,Makassar,Dana
+TRX0077,2024-02-19,Powerbank 10000mAH,Electronics,237286,5,237291,Makassar,Gopay
+TRX0078,2024-01-28,Mie Instan Premium,Food,97369,1,97370,Makassar,COD
+TRX0079,2024-05-22,Topi Bucket,Fashion,263557,1,263558,Bandung,ShopeePay
+TRX0080,2024-06-19,Mie Instan Premium,Food,440173,4,440177,Medan,Dana
+TRX0081,2024-04-19,Sunscreen,Beauty,341206,5,341211,Medan,Gopay
+TRX0082,2024-03-04,Jaket Denim,Fashion,255966,3,255969,Pontianak,Dana
+TRX0083,2024-01-20,Mie Instan Premium,Food,163968,4,163972,Pontianak,COD
+TRX0084,2024-01-21,Moisturizer Gel,Beauty,187619,5,187624,Bandung,COD
+TRX0085,2024-06-29,Jaket Denim,Fashion,383829,2,383831,Bandung,ShopeePay
+TRX0086,2024-04-29,Keripik Pedas,Food,193477,5,193482,Makassar,ShopeePay
+TRX0087,2024-06-27,Jaket Denim,Fashion,224198,5,224203,Jakarta,Dana
+TRX0088,2024-03-17,Keripik Pedas,Food,23091,3,23094,Makassar,Gopay
+TRX0089,2024-04-21,Jaket Denim,Fashion,135040,3,135043,Makassar,ShopeePay
+TRX0090,2024-02-12,Coklat Batangan,Food,370682,4,370686,Makassar,COD
+TRX0091,2024-06-18,Powerbank 10000mAH,Electronics,330322,5,330327,Jakarta,ShopeePay
+TRX0092,2024-02-16,Mie Instan Premium,Food,474479,4,474483,Jakarta,TF Bank
+TRX0093,2024-03-24,Coklat Batangan,Food,130970,4,130974,Pontianak,Gopay
+TRX0094,2024-04-30,Sunscreen,Beauty,152262,1,152263,Jakarta,Dana
+TRX0095,2024-06-15,Earphone Bass,Electronics,137556,1,137557,Jakarta,ShopeePay
+TRX0096,2024-06-08,Kaos Unisex,Fashion,459997,1,459998,Bandung,COD
+TRX0097,2024-05-24,Jaket Denim,Fashion,370989,1,370990,Bandung,Gopay
+TRX0098,2024-06-04,Moisturizer Gel,Beauty,107969,5,107974,Jakarta,COD
+TRX0099,2024-03-20,Serum Vitamin C,Beauty,323397,1,323398,Medan,Gopay
+TRX0100,2024-06-25,Mie Instan Premium,Food,59844,5,59849,Bandung,ShopeePay
+TRX0101,2024-05-24,Lip Tint,Beauty,442328,1,442329,Jakarta,TF Bank
+TRX0102,2024-06-14,Coklat Batangan,Food,56153,5,56158,Pontianak,ShopeePay
+TRX0103,2024-04-02,Keripik Pedas,Food,75332,4,75336,Makassar,COD
+TRX0104,2024-06-15,Mie Instan Premium,Food,404720,5,404725,Pontianak,Dana
+TRX0105,2024-03-09,Keripik Pedas,Food,248366,5,248371,Pontianak,COD
+TRX0106,2024-03-03,Earphone Bass,Electronics,482228,4,482232,Makassar,Dana
+TRX0107,2024-03-24,Coklat Batangan,Food,35047,4,35051,Bandung,Gopay
+TRX0108,2024-03-28,Celana Kargo,Fashion,438293,3,438296,Pontianak,Dana
+TRX0109,2024-02-18,Lip Tint,Beauty,25322,5,25327,Jakarta,COD
+TRX0110,2024-06-25,Keripik Pedas,Food,311072,2,311074,Makassar,Gopay
+TRX0111,2024-02-26,Kopi Susu,Food,68786,3,68789,Makassar,COD
+TRX0112,2024-05-21,Lip Tint,Beauty,213472,4,213476,Medan,TF Bank
+TRX0113,2024-06-28,Basreng,Food,193429,3,193432,Makassar,TF Bank
+TRX0114,2024-02-19,Moisturizer Gel,Beauty,140868,1,140869,Pontianak,ShopeePay
+TRX0115,2024-03-11,Kaos Unisex,Fashion,133447,4,133451,Medan,Dana
+TRX0116,2024-03-16,Serum Vitamin C,Beauty,456537,2,456539,Bandung,TF Bank
+TRX0117,2024-02-02,Celana Kargo,Fashion,27417,5,27422,Pontianak,ShopeePay
+TRX0118,2024-06-12,USB Hub,Electronics,173163,2,173165,Makassar,ShopeePay
+TRX0119,2024-05-02,USB Hub,Electronics,169075,4,169079,Makassar,TF Bank
+TRX0120,2024-01-30,Hoodie Oversize,Fashion,152371,4,152375,Jakarta,Gopay
+TRX0121,2024-02-08,Kopi Susu,Food,322525,1,322526,Bandung,Dana
+TRX0122,2024-05-22,Serum Vitamin C,Beauty,150123,1,150124,Makassar,Dana
+TRX0123,2024-04-23,Topi Bucket,Fashion,219427,4,219431,Pontianak,Dana
+TRX0124,2024-01-16,Coklat Batangan,Food,318125,5,318130,Medan,ShopeePay
+TRX0125,2024-02-10,Kaos Unisex,Fashion,158750,1,158751,Bandung,COD
+TRX0126,2024-04-25,Keyboard Mechanical,Electronics,21402,4,21406,Medan,Gopay
+TRX0127,2024-06-29,Serum Vitamin C,Beauty,141360,3,141363,Pontianak,Gopay
+TRX0128,2024-06-18,Keyboard Mechanical,Electronics,158702,5,158707,Bandung,Gopay
+TRX0129,2024-03-09,USB Hub,Electronics,137864,2,137866,Bandung,ShopeePay
+TRX0130,2024-06-01,Keyboard Mechanical,Electronics,435565,3,435568,Medan,TF Bank
+TRX0131,2024-06-28,Kopi Susu,Food,265732,3,265735,Makassar,TF Bank
+TRX0132,2024-01-11,Keripik Pedas,Food,62174,5,62179,Makassar,TF Bank
+TRX0133,2024-06-21,Serum Vitamin C,Beauty,67881,2,67883,Medan,Dana
+TRX0134,2024-02-14,Earphone Bass,Electronics,322119,1,322120,Makassar,Dana
+TRX0135,2024-04-21,Coklat Batangan,Food,115152,5,115157,Makassar,ShopeePay
+TRX0136,2024-03-23,Coklat Batangan,Food,234092,3,234095,Jakarta,COD
+TRX0137,2024-03-14,Sunscreen,Beauty,383684,4,383688,Makassar,Dana
+TRX0138,2024-03-05,Powerbank 10000mAH,Electronics,66168,3,66171,Pontianak,ShopeePay
+TRX0139,2024-06-17,Basreng,Food,452499,1,452500,Medan,Gopay
+TRX0140,2024-04-02,Kopi Susu,Food,118347,5,118352,Medan,Gopay
+TRX0141,2024-05-20,Kopi Susu,Food,126723,3,126726,Bandung,TF Bank
+TRX0142,2024-06-10,Keripik Pedas,Food,83662,1,83663,Medan,COD
+TRX0143,2024-05-21,Celana Kargo,Fashion,308798,1,308799,Makassar,ShopeePay
+TRX0144,2024-06-14,Hoodie Oversize,Fashion,261931,1,261932,Bandung,Gopay
+TRX0145,2024-04-16,Lip Tint,Beauty,389838,3,389841,Makassar,Gopay
+TRX0146,2024-04-08,Jaket Denim,Fashion,309021,2,309023,Bandung,Dana
+TRX0147,2024-03-28,Hoodie Oversize,Fashion,164833,4,164837,Medan,TF Bank
+TRX0148,2024-05-30,Earphone Bass,Electronics,400659,3,400662,Medan,Gopay
+TRX0149,2024-03-29,Jaket Denim,Fashion,302371,4,302375,Pontianak,Dana
+TRX0150,2024-06-27,Keripik Pedas,Food,188704,2,188706,Bandung,Dana
+TRX0151,2024-01-12,Mie Instan Premium,Food,468797,4,468801,Pontianak,Gopay
+TRX0152,2024-05-06,Keripik Pedas,Food,367964,2,367966,Jakarta,COD
+TRX0153,2024-01-26,Serum Vitamin C,Beauty,478327,4,478331,Medan,Gopay
+TRX0154,2024-01-20,Keyboard Mechanical,Electronics,234946,2,234948,Makassar,TF Bank
+TRX0155,2024-06-15,Lip Tint,Beauty,383176,4,383180,Jakarta,TF Bank
+TRX0156,2024-05-18,Coklat Batangan,Food,348623,4,348627,Jakarta,Dana
+TRX0157,2024-02-28,Keyboard Mechanical,Electronics,350910,3,350913,Jakarta,Gopay
+TRX0158,2024-06-26,House Wireless,Electronics,252615,2,252617,Pontianak,ShopeePay
+TRX0159,2024-03-16,Earphone Bass,Electronics,437408,1,437409,Pontianak,TF Bank
+TRX0160,2024-04-15,Mie Instan Premium,Food,148029,5,148034,Medan,COD
+TRX0161,2024-04-07,Kaos Unisex,Fashion,61402,5,61407,Medan,COD
+TRX0162,2024-04-28,Basreng,Food,95034,2,95036,Pontianak,Gopay
+TRX0163,2024-03-14,Serum Vitamin C,Beauty,491286,4,491290,Medan,COD
+TRX0164,2024-03-17,Powerbank 10000mAH,Electronics,201175,5,201180,Makassar,TF Bank
+TRX0165,2024-05-03,Coklat Batangan,Food,124447,4,124451,Jakarta,COD
+TRX0166,2024-03-16,Basreng,Food,208197,5,208202,Pontianak,ShopeePay
+TRX0167,2024-06-24,Coklat Batangan,Food,24245,5,24250,Jakarta,Dana
+TRX0168,2024-06-04,Coklat Batangan,Food,426711,2,426713,Pontianak,COD
+TRX0169,2024-06-09,Topi Bucket,Fashion,151400,2,151402,Jakarta,ShopeePay
+TRX0170,2024-04-03,Sunscreen,Beauty,37492,5,37497,Bandung,ShopeePay
+TRX0171,2024-02-14,Moisturizer Gel,Beauty,411895,4,411899,Bandung,COD
+TRX0172,2024-02-12,Lip Tint,Beauty,283084,3,283087,Pontianak,Gopay
+TRX0173,2024-04-29,Moisturizer Gel,Beauty,441649,1,441650,Jakarta,COD
+TRX0174,2024-04-03,Jaket Denim,Fashion,463413,5,463418,Jakarta,Gopay
+TRX0175,2024-04-26,Earphone Bass,Electronics,301318,1,301319,Pontianak,TF Bank
+TRX0176,2024-04-30,Coklat Batangan,Food,76804,2,76806,Jakarta,Dana
+TRX0177,2024-06-11,Lip Tint,Beauty,136060,1,136061,Makassar,TF Bank
+TRX0178,2024-01-10,Kopi Susu,Food,93283,1,93284,Pontianak,Gopay
+TRX0179,2024-02-04,House Wireless,Electronics,143102,5,143107,Makassar,Gopay
+TRX0180,2024-02-09,Lip Tint,Beauty,239743,5,239748,Makassar,ShopeePay
+TRX0181,2024-01-09,Basreng,Food,233970,3,233973,Pontianak,COD
+TRX0182,2024-01-26,Keripik Pedas,Food,143791,3,143794,Pontianak,Dana
+TRX0183,2024-02-18,Serum Vitamin C,Beauty,228739,3,228742,Jakarta,Gopay
+TRX0184,2024-01-06,Keyboard Mechanical,Electronics,356437,5,356442,Jakarta,TF Bank
+TRX0185,2024-02-22,Kaos Unisex,Fashion,432603,5,432608,Jakarta,Dana
+TRX0186,2024-03-25,Topi Bucket,Fashion,133220,2,133222,Bandung,Dana
+TRX0187,2024-02-03,Earphone Bass,Electronics,470052,2,470054,Medan,TF Bank
+TRX0188,2024-02-03,Hoodie Oversize,Fashion,366584,1,366585,Jakarta,TF Bank
+TRX0189,2024-02-14,Topi Bucket,Fashion,189749,1,189750,Pontianak,ShopeePay
+TRX0190,2024-01-17,Jaket Denim,Fashion,295820,1,295821,Makassar,Gopay
+TRX0191,2024-04-25,Lip Tint,Beauty,331251,1,331252,Medan,COD
+TRX0192,2024-06-13,USB Hub,Electronics,178141,4,178145,Jakarta,ShopeePay
+TRX0193,2024-05-05,Keripik Pedas,Food,243490,1,243491,Makassar,ShopeePay
+TRX0194,2024-01-17,Earphone Bass,Electronics,338923,2,338925,Bandung,TF Bank
+TRX0195,2024-03-16,Sunscreen,Beauty,333205,5,333210,Makassar,Dana
+TRX0196,2024-06-16,Kopi Susu,Food,435810,1,435811,Medan,COD
+TRX0197,2024-04-15,Keripik Pedas,Food,485615,2,485617,Pontianak,Gopay
+TRX0198,2024-03-21,Keripik Pedas,Food,402527,1,402528,Makassar,TF Bank
+TRX0199,2024-01-18,Moisturizer Gel,Beauty,100026,4,100030,Jakarta,ShopeePay
+TRX0200,2024-02-03,Powerbank 10000mAH,Electronics,70627,3,70630,Medan,ShopeePay
+TRX0201,2024-06-19,Serum Vitamin C,Beauty,235382,3,235385,Makassar,ShopeePay
+TRX0202,2024-01-27,Lip Tint,Beauty,183813,3,183816,Medan,Dana
+TRX0203,2024-02-27,Kaos Unisex,Fashion,364318,4,364322,Jakarta,TF Bank
+TRX0204,2024-05-26,Serum Vitamin C,Beauty,419824,3,419827,Bandung,Gopay
+TRX0205,2024-01-08,USB Hub,Electronics,364893,3,364896,Bandung,TF Bank
+TRX0206,2024-02-16,Moisturizer Gel,Beauty,204037,1,204038,Bandung,Dana
+TRX0207,2024-01-24,Kopi Susu,Food,94383,1,94384,Medan,COD
+TRX0208,2024-02-10,Keripik Pedas,Food,257841,3,257844,Pontianak,TF Bank
+TRX0209,2024-01-14,Lip Tint,Beauty,332592,1,332593,Bandung,COD
+TRX0210,2024-06-18,House Wireless,Electronics,162660,4,162664,Makassar,Gopay
+TRX0211,2024-05-11,Keripik Pedas,Food,163218,2,163220,Jakarta,TF Bank
+TRX0212,2024-05-04,Kopi Susu,Food,168502,5,168507,Medan,TF Bank
+TRX0213,2024-01-15,Keyboard Mechanical,Electronics,227231,5,227236,Jakarta,COD
+TRX0214,2024-03-06,Facial Wash,Beauty,422312,2,422314,Pontianak,TF Bank
+TRX0215,2024-02-14,House Wireless,Electronics,280773,4,280777,Bandung,Gopay
+TRX0216,2024-01-19,Topi Bucket,Fashion,312932,3,312935,Makassar,ShopeePay
+TRX0217,2024-03-21,Kopi Susu,Food,261043,1,261044,Medan,Gopay
+TRX0218,2024-04-13,Keripik Pedas,Food,171789,1,171790,Jakarta,TF Bank
+TRX0219,2024-01-23,Topi Bucket,Fashion,261223,3,261226,Makassar,ShopeePay
+TRX0220,2024-05-14,Jaket Denim,Fashion,328738,4,328742,Jakarta,Gopay
+TRX0221,2024-02-13,Moisturizer Gel,Beauty,136167,3,136170,Jakarta,Dana
+TRX0222,2024-03-30,USB Hub,Electronics,287361,2,287363,Pontianak,COD
+TRX0223,2024-02-20,Hoodie Oversize,Fashion,96778,3,96781,Bandung,Dana
+TRX0224,2024-04-28,Hoodie Oversize,Fashion,112875,4,112879,Medan,Dana
+TRX0225,2024-03-23,Basreng,Food,357112,5,357117,Pontianak,COD
+TRX0226,2024-06-10,Kopi Susu,Food,265849,4,265853,Pontianak,TF Bank
+TRX0227,2024-03-20,Earphone Bass,Electronics,285990,1,285991,Makassar,Gopay
+TRX0228,2024-01-20,House Wireless,Electronics,213324,3,213327,Jakarta,Dana
+TRX0229,2024-01-11,Keripik Pedas,Food,324259,5,324264,Makassar,Dana
+TRX0230,2024-05-08,Celana Kargo,Fashion,337197,4,337201,Bandung,ShopeePay
+TRX0231,2024-01-22,Kopi Susu,Food,445180,3,445183,Medan,COD
+TRX0232,2024-04-22,Keyboard Mechanical,Electronics,390997,4,391001,Medan,Dana
+TRX0233,2024-04-09,Celana Kargo,Fashion,215481,3,215484,Makassar,TF Bank
+TRX0234,2024-01-25,Earphone Bass,Electronics,54556,3,54559,Medan,Gopay
+TRX0235,2024-02-08,Moisturizer Gel,Beauty,399444,5,399449,Pontianak,ShopeePay
+TRX0236,2024-02-03,Celana Kargo,Fashion,182650,4,182654,Medan,ShopeePay
+TRX0237,2024-02-02,Lip Tint,Beauty,217488,3,217491,Medan,ShopeePay
+TRX0238,2024-04-02,Basreng,Food,209702,1,209703,Pontianak,COD
+TRX0239,2024-02-19,Celana Kargo,Fashion,421686,4,421690,Bandung,COD
+TRX0240,2024-05-09,Hoodie Oversize,Fashion,175080,1,175081,Medan,Dana
+TRX0241,2024-02-03,Earphone Bass,Electronics,479482,5,479487,Medan,Gopay
+TRX0242,2024-02-12,Kaos Unisex,Fashion,114815,5,114820,Makassar,ShopeePay
+TRX0243,2024-04-23,Coklat Batangan,Food,374608,2,374610,Medan,TF Bank
+TRX0244,2024-03-20,Mie Instan Premium,Food,299975,2,299977,Makassar,COD
+TRX0245,2024-03-13,Lip Tint,Beauty,250999,4,251003,Makassar,Dana
+TRX0246,2024-06-03,Mie Instan Premium,Food,448286,2,448288,Bandung,TF Bank
+TRX0247,2024-05-21,Powerbank 10000mAH,Electronics,478289,3,478292,Jakarta,Dana
+TRX0248,2024-03-10,Earphone Bass,Electronics,63974,2,63976,Makassar,Dana
+TRX0249,2024-04-25,Jaket Denim,Fashion,68084,2,68086,Pontianak,ShopeePay
+TRX0250,2024-04-05,Kopi Susu,Food,227856,5,227861,Bandung,Gopay
+TRX0251,2024-03-22,Earphone Bass,Electronics,137722,1,137723,Jakarta,TF Bank
+TRX0252,2024-04-30,Kaos Unisex,Fashion,40081,3,40084,Bandung,Gopay
+TRX0253,2024-01-05,Basreng,Food,22753,1,22754,Pontianak,COD
+TRX0254,2024-05-15,Topi Bucket,Fashion,401280,5,401285,Makassar,ShopeePay
+TRX0255,2024-01-13,Facial Wash,Beauty,177889,1,177890,Bandung,Gopay
+TRX0256,2024-06-01,Kopi Susu,Food,78121,4,78125,Medan,ShopeePay
+TRX0257,2024-01-01,Kaos Unisex,Fashion,172710,4,172714,Medan,TF Bank
+TRX0258,2024-06-19,Topi Bucket,Fashion,238401,2,238403,Jakarta,Dana
+TRX0259,2024-05-09,Serum Vitamin C,Beauty,295806,5,295811,Medan,Dana
+TRX0260,2024-01-12,Powerbank 10000mAH,Electronics,477877,4,477881,Makassar,TF Bank
+TRX0261,2024-03-29,Serum Vitamin C,Beauty,207220,1,207221,Bandung,ShopeePay
+TRX0262,2024-05-19,Facial Wash,Beauty,43244,3,43247,Pontianak,COD
+TRX0263,2024-02-04,Keripik Pedas,Food,351211,2,351213,Jakarta,Gopay
+TRX0264,2024-02-21,Earphone Bass,Electronics,125691,1,125692,Jakarta,TF Bank
+TRX0265,2024-05-01,Lip Tint,Beauty,228784,5,228789,Pontianak,ShopeePay
+TRX0266,2024-06-16,Celana Kargo,Fashion,207157,1,207158,Pontianak,TF Bank
+TRX0267,2024-04-22,Earphone Bass,Electronics,249088,4,249092,Makassar,TF Bank
+TRX0268,2024-04-04,Jaket Denim,Fashion,382843,4,382847,Medan,TF Bank
+TRX0269,2024-06-03,Powerbank 10000mAH,Electronics,61380,4,61384,Bandung,Dana
+TRX0270,2024-03-24,Moisturizer Gel,Beauty,73790,1,73791,Pontianak,TF Bank
+TRX0271,2024-02-12,Basreng,Food,396262,4,396266,Makassar,TF Bank
+TRX0272,2024-06-06,Kopi Susu,Food,401060,3,401063,Makassar,TF Bank
+TRX0273,2024-04-03,House Wireless,Electronics,371893,4,371897,Medan,COD
+TRX0274,2024-06-22,Keyboard Mechanical,Electronics,464947,5,464952,Makassar,ShopeePay
+TRX0275,2024-04-02,Hoodie Oversize,Fashion,143729,3,143732,Makassar,Dana
+TRX0276,2024-04-04,USB Hub,Electronics,100445,4,100449,Pontianak,Gopay
+TRX0277,2024-04-03,USB Hub,Electronics,92191,5,92196,Makassar,TF Bank
+TRX0278,2024-02-17,Facial Wash,Beauty,79479,1,79480,Makassar,Dana
+TRX0279,2024-03-07,Basreng,Food,81740,3,81743,Makassar,COD
+TRX0280,2024-02-04,Sunscreen,Beauty,124951,1,124952,Jakarta,Gopay
+TRX0281,2024-06-19,Jaket Denim,Fashion,66027,3,66030,Pontianak,ShopeePay
+TRX0282,2024-06-28,Moisturizer Gel,Beauty,466358,2,466360,Bandung,TF Bank
+TRX0283,2024-03-01,Hoodie Oversize,Fashion,125371,2,125373,Makassar,ShopeePay
+TRX0284,2024-04-29,Lip Tint,Beauty,320038,3,320041,Medan,COD
+TRX0285,2024-05-02,House Wireless,Electronics,182157,4,182161,Medan,Gopay
+TRX0286,2024-03-22,Basreng,Food,58666,2,58668,Jakarta,Gopay
+TRX0287,2024-05-21,Basreng,Food,200624,2,200626,Medan,COD
+TRX0288,2024-02-01,Jaket Denim,Fashion,283645,1,283646,Medan,COD
+TRX0289,2024-02-27,Facial Wash,Beauty,104917,3,104920,Pontianak,Dana
+TRX0290,2024-06-11,Serum Vitamin C,Beauty,151389,2,151391,Medan,TF Bank
+TRX0291,2024-01-24,Celana Kargo,Fashion,342137,5,342142,Medan,COD
+TRX0292,2024-06-03,Kaos Unisex,Fashion,365365,5,365370,Pontianak,Dana
+TRX0293,2024-06-13,House Wireless,Electronics,62584,1,62585,Medan,TF Bank
+TRX0294,2024-06-12,Topi Bucket,Fashion,238411,5,238416,Jakarta,Gopay
+TRX0295,2024-06-24,Moisturizer Gel,Beauty,273202,2,273204,Makassar,TF Bank
+TRX0296,2024-02-10,Kopi Susu,Food,381031,1,381032,Makassar,Gopay
+TRX0297,2024-06-04,Keripik Pedas,Food,126966,3,126969,Bandung,TF Bank
+TRX0298,2024-04-04,Moisturizer Gel,Beauty,229042,2,229044,Medan,Dana
+TRX0299,2024-02-01,Earphone Bass,Electronics,146740,4,146744,Pontianak,Gopay
+TRX0300,2024-03-15,Kaos Unisex,Fashion,70757,1,70758,Makassar,Dana
+TRX0301,2024-03-24,Mie Instan Premium,Food,473670,2,473672,Medan,TF Bank
+TRX0302,2024-04-29,Kaos Unisex,Fashion,281234,5,281239,Makassar,TF Bank
+TRX0303,2024-05-09,Kopi Susu,Food,67211,4,67215,Makassar,COD
+TRX0304,2024-01-13,Topi Bucket,Fashion,205018,1,205019,Pontianak,Gopay
+TRX0305,2024-01-28,Coklat Batangan,Food,301380,1,301381,Makassar,COD
+TRX0306,2024-04-03,Moisturizer Gel,Beauty,420480,4,420484,Jakarta,Gopay
+TRX0307,2024-04-02,USB Hub,Electronics,314553,2,314555,Medan,TF Bank
+TRX0308,2024-05-20,Powerbank 10000mAH,Electronics,284375,4,284379,Pontianak,Dana
+TRX0309,2024-04-05,Keyboard Mechanical,Electronics,70688,4,70692,Pontianak,Dana
+TRX0310,2024-05-10,Facial Wash,Beauty,124363,5,124368,Makassar,Dana
+TRX0311,2024-03-26,House Wireless,Electronics,40402,2,40404,Makassar,Dana
+TRX0312,2024-02-05,Mie Instan Premium,Food,337855,5,337860,Pontianak,Dana
+TRX0313,2024-03-17,Facial Wash,Beauty,226021,5,226026,Medan,TF Bank
+TRX0314,2024-01-05,Basreng,Food,177176,4,177180,Pontianak,TF Bank
+TRX0315,2024-06-25,Powerbank 10000mAH,Electronics,326028,3,326031,Jakarta,Dana
+TRX0316,2024-05-27,Coklat Batangan,Food,363718,5,363723,Bandung,ShopeePay
+TRX0317,2024-04-07,Mie Instan Premium,Food,294848,5,294853,Bandung,COD
+TRX0318,2024-02-18,USB Hub,Electronics,387274,1,387275,Jakarta,Gopay
+TRX0319,2024-06-25,Sunscreen,Beauty,99393,4,99397,Bandung,Gopay
+TRX0320,2024-05-12,Kopi Susu,Food,390029,2,390031,Bandung,Dana
+TRX0321,2024-03-21,Sunscreen,Beauty,295501,4,295505,Bandung,Gopay
+TRX0322,2024-06-05,Lip Tint,Beauty,205748,3,205751,Makassar,COD
+TRX0323,2024-02-27,Celana Kargo,Fashion,312598,3,312601,Pontianak,TF Bank
+TRX0324,2024-03-30,Jaket Denim,Fashion,186220,4,186224,Medan,TF Bank
+TRX0325,2024-04-07,Serum Vitamin C,Beauty,320667,5,320672,Makassar,TF Bank
+TRX0326,2024-01-21,Celana Kargo,Fashion,42054,3,42057,Pontianak,Gopay
+TRX0327,2024-05-17,Sunscreen,Beauty,132190,2,132192,Pontianak,Dana
+TRX0328,2024-05-30,Facial Wash,Beauty,77266,5,77271,Bandung,COD
+TRX0329,2024-01-14,USB Hub,Electronics,138316,2,138318,Jakarta,Gopay
+TRX0330,2024-01-02,Sunscreen,Beauty,72714,2,72716,Medan,COD
+TRX0331,2024-03-14,Keripik Pedas,Food,270320,2,270322,Pontianak,TF Bank
+TRX0332,2024-02-29,House Wireless,Electronics,361992,5,361997,Medan,ShopeePay
+TRX0333,2024-01-10,Jaket Denim,Fashion,482550,2,482552,Makassar,Gopay
+TRX0334,2024-01-03,Celana Kargo,Fashion,479665,1,479666,Pontianak,Dana
+TRX0335,2024-06-13,Earphone Bass,Electronics,169192,4,169196,Medan,Dana
+TRX0336,2024-04-29,Mie Instan Premium,Food,466200,5,466205,Pontianak,COD
+TRX0337,2024-06-14,Earphone Bass,Electronics,105193,4,105197,Pontianak,COD
+TRX0338,2024-05-25,Earphone Bass,Electronics,434589,3,434592,Bandung,COD
+TRX0339,2024-01-23,Keripik Pedas,Food,290155,3,290158,Makassar,ShopeePay
+TRX0340,2024-03-04,Kaos Unisex,Fashion,270323,3,270326,Jakarta,TF Bank
+TRX0341,2024-03-25,Mie Instan Premium,Food,254218,3,254221,Pontianak,Dana
+TRX0342,2024-06-26,Earphone Bass,Electronics,362718,3,362721,Bandung,ShopeePay
+TRX0343,2024-04-13,Powerbank 10000mAH,Electronics,180854,2,180856,Medan,TF Bank
+TRX0344,2024-02-26,Earphone Bass,Electronics,212698,5,212703,Bandung,COD
+TRX0345,2024-04-05,Mie Instan Premium,Food,258539,5,258544,Makassar,Dana
+TRX0346,2024-03-04,Basreng,Food,440476,2,440478,Medan,ShopeePay
+TRX0347,2024-01-20,Basreng,Food,388976,3,388979,Medan,ShopeePay
+TRX0348,2024-02-21,USB Hub,Electronics,493373,5,493378,Medan,Dana
+TRX0349,2024-04-23,Kaos Unisex,Fashion,192028,5,192033,Jakarta,COD
+TRX0350,2024-04-24,Kopi Susu,Food,491276,5,491281,Jakarta,Gopay
+TRX0351,2024-05-24,Topi Bucket,Fashion,237802,4,237806,Jakarta,Dana
+TRX0352,2024-04-11,Coklat Batangan,Food,399207,1,399208,Pontianak,ShopeePay
+TRX0353,2024-04-18,Topi Bucket,Fashion,58288,1,58289,Pontianak,ShopeePay
+TRX0354,2024-03-14,House Wireless,Electronics,267501,1,267502,Makassar,COD
+TRX0355,2024-04-24,Jaket Denim,Fashion,216325,4,216329,Makassar,Gopay
+TRX0356,2024-01-31,USB Hub,Electronics,89724,3,89727,Bandung,Dana
+TRX0357,2024-01-01,Basreng,Food,86766,2,86768,Jakarta,TF Bank
+TRX0358,2024-04-07,Basreng,Food,242365,5,242370,Bandung,COD
+TRX0359,2024-02-18,Coklat Batangan,Food,101328,3,101331,Jakarta,ShopeePay
+TRX0360,2024-03-02,Basreng,Food,421632,1,421633,Bandung,ShopeePay
+TRX0361,2024-06-02,USB Hub,Electronics,37603,4,37607,Jakarta,COD
+TRX0362,2024-05-18,Powerbank 10000mAH,Electronics,250142,2,250144,Bandung,ShopeePay
+TRX0363,2024-05-27,Topi Bucket,Fashion,171657,2,171659,Pontianak,Dana
+TRX0364,2024-06-18,Facial Wash,Beauty,178211,2,178213,Medan,COD
+TRX0365,2024-05-22,Coklat Batangan,Food,164259,1,164260,Medan,COD
+TRX0366,2024-03-29,Basreng,Food,279848,1,279849,Makassar,Dana
+TRX0367,2024-03-17,Sunscreen,Beauty,234045,2,234047,Makassar,COD
+TRX0368,2024-03-17,Mie Instan Premium,Food,465299,2,465301,Bandung,Gopay
+TRX0369,2024-05-22,USB Hub,Electronics,236361,4,236365,Medan,COD
+TRX0370,2024-03-25,Mie Instan Premium,Food,153691,2,153693,Jakarta,Gopay
+TRX0371,2024-01-14,Serum Vitamin C,Beauty,300827,2,300829,Pontianak,Gopay
+TRX0372,2024-06-20,House Wireless,Electronics,118651,5,118656,Medan,COD
+TRX0373,2024-03-18,Mie Instan Premium,Food,475854,3,475857,Jakarta,COD
+TRX0374,2024-03-03,Hoodie Oversize,Fashion,411579,4,411583,Medan,COD
+TRX0375,2024-03-13,Mie Instan Premium,Food,309448,3,309451,Makassar,Gopay
+TRX0376,2024-05-11,Moisturizer Gel,Beauty,157133,3,157136,Makassar,Gopay
+TRX0377,2024-02-22,Powerbank 10000mAH,Electronics,419312,3,419315,Pontianak,TF Bank
+TRX0378,2024-02-07,Kopi Susu,Food,314924,2,314926,Jakarta,TF Bank
+TRX0379,2024-03-25,Coklat Batangan,Food,99907,2,99909,Bandung,Gopay
+TRX0380,2024-03-06,Jaket Denim,Fashion,308695,3,308698,Makassar,Gopay
+TRX0381,2024-02-13,Mie Instan Premium,Food,404183,3,404186,Bandung,Dana
+TRX0382,2024-06-13,Mie Instan Premium,Food,486283,5,486288,Jakarta,Dana
+TRX0383,2024-01-02,House Wireless,Electronics,448865,1,448866,Makassar,COD
+TRX0384,2024-01-03,Hoodie Oversize,Fashion,390760,2,390762,Bandung,Dana
+TRX0385,2024-06-12,Coklat Batangan,Food,51693,5,51698,Medan,Gopay
+TRX0386,2024-05-21,Kopi Susu,Food,23466,5,23471,Makassar,ShopeePay
+TRX0387,2024-05-17,USB Hub,Electronics,398636,3,398639,Pontianak,ShopeePay
+TRX0388,2024-05-14,Mie Instan Premium,Food,76107,1,76108,Bandung,COD
+TRX0389,2024-03-31,Topi Bucket,Fashion,296014,3,296017,Pontianak,Gopay
+TRX0390,2024-05-24,Earphone Bass,Electronics,232875,4,232879,Bandung,COD
+TRX0391,2024-01-24,Serum Vitamin C,Beauty,362745,1,362746,Makassar,Gopay
+TRX0392,2024-06-12,Basreng,Food,269563,1,269564,Jakarta,COD
+TRX0393,2024-06-14,Powerbank 10000mAH,Electronics,463196,4,463200,Pontianak,Dana
+TRX0394,2024-02-24,USB Hub,Electronics,42309,2,42311,Medan,Gopay
+TRX0395,2024-05-19,Serum Vitamin C,Beauty,58979,3,58982,Medan,ShopeePay
+TRX0396,2024-05-30,Celana Kargo,Fashion,28209,2,28211,Bandung,Gopay
+TRX0397,2024-03-02,Earphone Bass,Electronics,105170,5,105175,Medan,Gopay
+TRX0398,2024-06-25,Sunscreen,Beauty,416156,2,416158,Jakarta,Dana
+TRX0399,2024-02-29,Serum Vitamin C,Beauty,71215,4,71219,Jakarta,TF Bank
+TRX0400,2024-04-25,Coklat Batangan,Food,35532,3,35535,Makassar,COD
+TRX0401,2024-02-17,Lip Tint,Beauty,216831,4,216835,Medan,Gopay
+TRX0402,2024-01-19,USB Hub,Electronics,174863,2,174865,Jakarta,TF Bank
+TRX0403,2024-04-09,Jaket Denim,Fashion,393123,2,393125,Pontianak,TF Bank
+TRX0404,2024-04-23,House Wireless,Electronics,22723,3,22726,Pontianak,TF Bank
+TRX0405,2024-04-20,Keyboard Mechanical,Electronics,65768,2,65770,Makassar,Dana
+TRX0406,2024-03-31,Kopi Susu,Food,33768,1,33769,Medan,ShopeePay
+TRX0407,2024-04-15,Sunscreen,Beauty,26470,3,26473,Makassar,ShopeePay
+TRX0408,2024-06-24,Topi Bucket,Fashion,293208,2,293210,Makassar,COD
+TRX0409,2024-05-06,Celana Kargo,Fashion,177879,3,177882,Bandung,ShopeePay
+TRX0410,2024-03-17,Jaket Denim,Fashion,164683,4,164687,Makassar,ShopeePay
+TRX0411,2024-06-01,Moisturizer Gel,Beauty,149284,4,149288,Medan,COD
+TRX0412,2024-01-02,Kopi Susu,Food,91035,3,91038,Makassar,TF Bank
+TRX0413,2024-04-20,Coklat Batangan,Food,250803,3,250806,Medan,COD
+TRX0414,2024-05-02,Moisturizer Gel,Beauty,336256,2,336258,Pontianak,COD
+TRX0415,2024-05-27,Coklat Batangan,Food,172802,4,172806,Bandung,TF Bank
+TRX0416,2024-04-03,Coklat Batangan,Food,448078,4,448082,Jakarta,Dana
+TRX0417,2024-06-23,Topi Bucket,Fashion,306066,2,306068,Medan,ShopeePay
+TRX0418,2024-06-26,Mie Instan Premium,Food,249876,3,249879,Jakarta,Gopay
+TRX0419,2024-03-02,Mie Instan Premium,Food,352050,3,352053,Pontianak,COD
+TRX0420,2024-06-02,Keripik Pedas,Food,58779,4,58783,Makassar,Dana
+TRX0421,2024-05-19,Basreng,Food,285610,4,285614,Jakarta,TF Bank
+TRX0422,2024-06-17,House Wireless,Electronics,423153,2,423155,Pontianak,COD
+TRX0423,2024-03-25,USB Hub,Electronics,358182,4,358186,Makassar,ShopeePay
+TRX0424,2024-05-10,House Wireless,Electronics,155653,2,155655,Medan,Dana
+TRX0425,2024-04-28,Jaket Denim,Fashion,216146,4,216150,Medan,Dana
+TRX0426,2024-01-27,Celana Kargo,Fashion,32877,4,32881,Pontianak,Gopay
+TRX0427,2024-03-30,House Wireless,Electronics,455849,2,455851,Pontianak,TF Bank
+TRX0428,2024-03-30,Mie Instan Premium,Food,293214,4,293218,Makassar,ShopeePay
+TRX0429,2024-03-17,Keripik Pedas,Food,187200,1,187201,Jakarta,ShopeePay
+TRX0430,2024-06-22,Earphone Bass,Electronics,359722,1,359723,Bandung,COD
+TRX0431,2024-05-23,Topi Bucket,Fashion,103957,3,103960,Makassar,Gopay
+TRX0432,2024-02-17,Jaket Denim,Fashion,350175,2,350177,Makassar,Gopay
+TRX0433,2024-04-25,USB Hub,Electronics,482997,2,482999,Medan,Gopay
+TRX0434,2024-02-22,Kopi Susu,Food,389484,2,389486,Pontianak,ShopeePay
+TRX0435,2024-03-24,USB Hub,Electronics,118020,3,118023,Bandung,Gopay
+TRX0436,2024-05-15,Earphone Bass,Electronics,371640,4,371644,Pontianak,Dana
+TRX0437,2024-01-30,Basreng,Food,225806,5,225811,Pontianak,TF Bank
+TRX0438,2024-06-06,Basreng,Food,110454,3,110457,Medan,ShopeePay
+TRX0439,2024-03-19,Celana Kargo,Fashion,81793,2,81795,Jakarta,COD
+TRX0440,2024-04-17,Facial Wash,Beauty,287819,4,287823,Medan,COD
+TRX0441,2024-06-11,Keripik Pedas,Food,117388,4,117392,Medan,COD
+TRX0442,2024-02-17,Jaket Denim,Fashion,171432,2,171434,Pontianak,Gopay
+TRX0443,2024-02-04,Earphone Bass,Electronics,25024,4,25028,Bandung,Gopay
+TRX0444,2024-04-16,Keripik Pedas,Food,378978,4,378982,Makassar,Gopay
+TRX0445,2024-02-26,Hoodie Oversize,Fashion,316431,1,316432,Pontianak,ShopeePay
+TRX0446,2024-02-13,Facial Wash,Beauty,301861,3,301864,Makassar,Dana
+TRX0447,2024-05-26,Basreng,Food,287809,1,287810,Jakarta,TF Bank
+TRX0448,2024-04-22,Lip Tint,Beauty,451285,1,451286,Medan,COD
+TRX0449,2024-03-17,Kopi Susu,Food,405870,2,405872,Jakarta,Gopay
+TRX0450,2024-04-22,Moisturizer Gel,Beauty,472040,1,472041,Jakarta,COD
+TRX0451,2024-06-05,Topi Bucket,Fashion,381304,3,381307,Makassar,COD
+TRX0452,2024-01-16,Kaos Unisex,Fashion,446523,2,446525,Medan,TF Bank
+TRX0453,2024-03-23,Lip Tint,Beauty,302469,2,302471,Pontianak,TF Bank
+TRX0454,2024-02-04,Lip Tint,Beauty,491940,1,491941,Makassar,ShopeePay
+TRX0455,2024-03-04,Facial Wash,Beauty,387749,2,387751,Bandung,TF Bank
+TRX0456,2024-05-27,Jaket Denim,Fashion,276617,2,276619,Pontianak,Gopay
+TRX0457,2024-04-13,Keripik Pedas,Food,59592,1,59593,Medan,TF Bank
+TRX0458,2024-05-28,Sunscreen,Beauty,275875,3,275878,Jakarta,ShopeePay
+TRX0459,2024-05-16,Coklat Batangan,Food,465700,1,465701,Makassar,COD
+TRX0460,2024-03-23,Mie Instan Premium,Food,279373,3,279376,Pontianak,TF Bank
+TRX0461,2024-03-28,Topi Bucket,Fashion,466914,4,466918,Jakarta,ShopeePay
+TRX0462,2024-02-10,Powerbank 10000mAH,Electronics,28536,1,28537,Makassar,Gopay
+TRX0463,2024-06-15,Powerbank 10000mAH,Electronics,126073,2,126075,Pontianak,COD
+TRX0464,2024-03-05,Serum Vitamin C,Beauty,363192,3,363195,Jakarta,TF Bank
+TRX0465,2024-06-28,Hoodie Oversize,Fashion,227797,3,227800,Bandung,Gopay
+TRX0466,2024-05-02,House Wireless,Electronics,20569,2,20571,Jakarta,COD
+TRX0467,2024-01-03,Topi Bucket,Fashion,376506,4,376510,Jakarta,TF Bank
+TRX0468,2024-05-02,Powerbank 10000mAH,Electronics,383872,2,383874,Jakarta,COD
+TRX0469,2024-01-27,Kopi Susu,Food,403130,1,403131,Pontianak,TF Bank
+TRX0470,2024-06-13,Facial Wash,Beauty,220656,2,220658,Bandung,ShopeePay
+TRX0471,2024-04-22,USB Hub,Electronics,360797,2,360799,Pontianak,COD
+TRX0472,2024-02-25,Jaket Denim,Fashion,343001,4,343005,Jakarta,ShopeePay
+TRX0473,2024-03-30,Hoodie Oversize,Fashion,329106,4,329110,Makassar,TF Bank
+TRX0474,2024-03-04,Kaos Unisex,Fashion,165210,1,165211,Medan,Dana
+TRX0475,2024-02-22,Serum Vitamin C,Beauty,464539,3,464542,Medan,Dana
+TRX0476,2024-03-02,Jaket Denim,Fashion,174949,1,174950,Makassar,Gopay
+TRX0477,2024-01-19,Keyboard Mechanical,Electronics,281925,5,281930,Medan,ShopeePay
+TRX0478,2024-05-25,Moisturizer Gel,Beauty,89197,4,89201,Makassar,TF Bank
+TRX0479,2024-01-05,Jaket Denim,Fashion,423894,1,423895,Medan,ShopeePay
+TRX0480,2024-01-16,Earphone Bass,Electronics,133111,1,133112,Makassar,Dana
+TRX0481,2024-04-18,Lip Tint,Beauty,422186,4,422190,Makassar,ShopeePay
+TRX0482,2024-01-21,Celana Kargo,Fashion,63828,3,63831,Medan,COD
+TRX0483,2024-05-30,Topi Bucket,Fashion,191311,4,191315,Jakarta,TF Bank
+TRX0484,2024-01-23,Mie Instan Premium,Food,50359,2,50361,Makassar,ShopeePay
+TRX0485,2024-03-20,Basreng,Food,339203,1,339204,Bandung,ShopeePay
+TRX0486,2024-02-11,Keyboard Mechanical,Electronics,387787,1,387788,Makassar,TF Bank
+TRX0487,2024-03-09,Facial Wash,Beauty,214966,2,214968,Jakarta,ShopeePay
+TRX0488,2024-01-17,Sunscreen,Beauty,162596,5,162601,Pontianak,Dana
+TRX0489,2024-04-02,Powerbank 10000mAH,Electronics,258654,5,258659,Jakarta,Gopay
+TRX0490,2024-01-27,Celana Kargo,Fashion,102475,3,102478,Medan,ShopeePay
+TRX0491,2024-01-04,Topi Bucket,Fashion,21346,1,21347,Bandung,ShopeePay
+TRX0492,2024-02-15,Coklat Batangan,Food,220791,2,220793,Jakarta,Dana
+TRX0493,2024-04-16,Mie Instan Premium,Food,188716,2,188718,Pontianak,TF Bank
+TRX0494,2024-05-08,USB Hub,Electronics,215458,1,215459,Jakarta,COD
+TRX0495,2024-01-18,Topi Bucket,Fashion,44079,4,44083,Makassar,TF Bank
+TRX0496,2024-04-26,Moisturizer Gel,Beauty,65290,5,65295,Jakarta,TF Bank
+TRX0497,2024-06-08,Celana Kargo,Fashion,315597,3,315600,Bandung,Gopay
+TRX0498,2024-05-19,Lip Tint,Beauty,278663,2,278665,Bandung,COD
+TRX0499,2024-05-18,Powerbank 10000mAH,Electronics,32535,2,32537,Pontianak,ShopeePay
+TRX0500,2024-03-19,Serum Vitamin C,Beauty,417897,4,417901,Jakarta,COD
